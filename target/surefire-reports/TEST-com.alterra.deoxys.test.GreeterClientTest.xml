@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.alterra.deoxys.test.GreeterClientTest" time="3.034" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.alterra.deoxys.test.GreeterClientTest" time="2.077" errors="0" skipped="0">
   <properties>
     <property name="os.detected.version" value="10.14"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -30,7 +30,7 @@
     <property name="os.detected.version.major" value="10"/>
     <property name="os.name" value="Mac OS X"/>
     <property name="os.detected.classifier" value="osx-x86_64"/>
-    <property name="classworlds.conf" value="/Users/alterra/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf5853440413660215531.tmp"/>
+    <property name="classworlds.conf" value="/Users/alterra/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf5703292157425283701.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/alterra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="os.detected.arch" value="x86_64"/>
@@ -68,5 +68,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.alterra.deoxys.test.GreeterClientTest" name="CrudTest" time="3.034"/>
+  <testcase classname="com.alterra.deoxys.test.GreeterClientTest" name="CrudTest" time="2.077"/>
 </testsuite>

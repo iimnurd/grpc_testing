@@ -99,9 +99,9 @@ public class GreeterClientTest {
 
 			logger.info("============== DELETE STAGE ==============");
 			//test read data by id
-			DeleteResponse responseDelete = this.bclient.sendDeleteRequestToService(bclient, "v1", new_id);
-			logger.info("RAW Response Read : " + responseDelete.toString());
-			logger.info("=========================================="+"\n \n");
+			//DeleteResponse responseDelete = this.bclient.sendDeleteRequestToService(bclient, "v1", new_id);
+			//logger.info("RAW Response Read : " + responseDelete.toString());
+			//logger.info("=========================================="+"\n \n");
 			
 			
 			

@@ -13,7 +13,6 @@ import com.alterra.deoxys.stub. * ;
 
 import com.alterra.deoxys.stub.ToDoServiceGrpc.ToDoServiceBlockingStub;
 
-import io.grpc.netty.NettyChannelBuilder;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import com.google.protobuf.Timestamp;
